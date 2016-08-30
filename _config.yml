@@ -27,10 +27,10 @@ navbar-links:
   Datos Disponibles:
     - Generador de datos: "http://www.convertcsv.com/generate-test-data.htm"
     - Aprende MD: "http://www.markdowntutorial.com/"
-    - Kaggle :"https://www.kaggle.com/datasets"
+    - Kaggle: "https://www.kaggle.com/datasets"
   Formacion Data Engineer:
-    -  Master Spark:  "https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/"
-    -  Domina Scala: "http://eed3si9n.com/learning-scalaz/index.html"
+    - Master Spark: "https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/"
+    - Domina Scala: "http://eed3si9n.com/learning-scalaz/index.html"
       - Practica con Scala : "https://www.hackerrank.com/domains/fp/intro"
   Cv: "https://www.linkedin.com/in/daviddiazcasta"
 
