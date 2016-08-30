@@ -23,12 +23,12 @@ description: Pagina personal!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "sobreme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Sobre mi: "sobreme"
+  Datos:
+    - Generador de datos: "http://www.convertcsv.com/generate-test-data.htm"
+    - Aprende MD: "http://www.markdowntutorial.com/"
+    - Spark: "https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-sql-dataframe.html"
+  Cv: "https://www.linkedin.com/in/daviddiazcasta"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
