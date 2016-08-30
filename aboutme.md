@@ -4,10 +4,9 @@ title: Sobre mi
 subtitle: Aparte de ser informatico tengo otras pasiones en la vida
 ---
 
-Mi nombre es David diaz castaño vengo de Colombia, aparte del ### deporte estas son mis mayores aficiones:
+Mi nombre es David diaz castaño vengo de Colombia, aparte del deporte estas son mis mayores aficiones:
 
- ### Viajar
-###  
+### Viajar
 
 Que mas puedes saber?
 
