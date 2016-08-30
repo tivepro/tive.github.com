@@ -17,13 +17,13 @@ baseurl: ""
 title: Data Engineer
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Pagina personal!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "sobreme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -39,12 +39,12 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: David Diaz Castaño
   email: "youremail@domain.com"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  linkedin: yourname  # eg. daattali
+  github: tivepro    # eg. daattali
+  twitter: tivepro   # eg. daattali
+  linkedin: daviddiazcasta  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   instagram: yourname # eg. daattali
@@ -53,11 +53,11 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   instagram: false
@@ -72,7 +72,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "tivepro.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
