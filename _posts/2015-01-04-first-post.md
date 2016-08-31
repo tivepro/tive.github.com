@@ -10,10 +10,10 @@ En esta línea, y para contemplar la variable “tiempo” de una manera más co
 
 ### 1. LEYES DE PARKINSON
 
-   >"Todo trabajo se dilata indefinidamente hasta llegar a ocupar la totalidad del tiempo disponible para su completa >realización"
-   >“El tiempo invertido en un trabajo varía en función del tiempo disponible”
+   > "Todo trabajo se dilata indefinidamente hasta llegar a ocupar la totalidad del tiempo disponible para su completa realización"
+   “El tiempo invertido en un trabajo varía en función del tiempo disponible”
 
-*Un pequeño comentario: O sea, que hay que tener cuidado a la hora de asignar tiempos a las tareas. Salvo excepciones, parece mejor asignar tiempos “ajustados”.
+_*Un pequeño comentario: O sea, que hay que tener cuidado a la hora de asignar tiempos a las tareas. Salvo excepciones, parece mejor asignar tiempos “ajustados”._
  
 
 ### 2. LEY DE PARETO DEL 80/20
