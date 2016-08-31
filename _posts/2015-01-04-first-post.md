@@ -1,7 +1,59 @@
 ---
 layout: post
-title: First post!
-tags: [random, exciting-stuff]
+title: Las 7 leyes psicológicas del tiempo
+tags: [ Autoliderazgo, Productividad Personal]
 ---
 
-This is my first post, how exciting!
+Un día alguien me dijo que el tiempo cronológico, al igual que el atmosférico, no se podía gestionar. Que todos teníamos el mismo y que lo que cabía gestionar era nuestra productividad dentro de ese tiempo. A partir de ahí me di cuenta de que era evidente que cuando a alguien le decías “perdona pero no tengo tiempo” lo que en realidad le estabas diciendo es “tengo cosas más importantes que hacer que lo que me pides”.
+
+En esta línea, y para contemplar la variable “tiempo” de una manera más completa en relación a la productividad, reúno en este post las “leyes del tiempo” y las comento brevemente.
+
+### 1. LEYES DE PARKINSON
+
+   >"Todo trabajo se dilata indefinidamente hasta llegar a ocupar la totalidad del tiempo disponible para su completa >realización"
+   >“El tiempo invertido en un trabajo varía en función del tiempo disponible”
+
+*Un pequeño comentario: O sea, que hay que tener cuidado a la hora de asignar tiempos a las tareas. Salvo excepciones, parece mejor asignar tiempos “ajustados”.
+ 
+
+### 2. LEY DE PARETO DEL 80/20
+
+Probablemente la más conocida: 
+> "El 20% del tiempo de trabajo de una persona contribuye a generar el 80% de sus resultados yviceversa." 
+
+_Un pequeño comentario: En mi opinión más que una ley es una descripción de lo que ha venido sucediendo en el modelo de trabajo más vigente hasta ahora. Una persona productiva debería hacer saltar el pareto._
+ 
+
+###3. LEY DEL CRITERIO ABC
+
+> "Una pequeña parte del tiempo de trabajo lo destinamos a las tareas “tipo A” que son las que proporcionan la mayor parte de los resultados."
+
+_Un pequeño comentario: Una vez más el modelo vigente poco productivo. Bajo un buen modelo de productividad, las tareas más adecuadas son las que encajan mejor con las peculiaridades de cada momento, es decir, con el tiempo disponible, con la energía que se tiene, con el contexto en el que se está..._
+ 
+
+### 4. LEY DE ILLICH (o de la productividad negativa a partir de un umbral)
+
+> "Tras un cierto número de horas, la productividad del tiempo invertido decrece primero y se hace negativa después"
+
+_Un pequeño comentario: Entiendo que esta es una ley psicológica sí o sí que se relaciona con la necesidad de introducir pequeños descansos y trabajar en algo así como cajas de tiempo._
+ 
+
+### 5. LEY DE SWOBODA O LEY DE LOS RÍTMOS BIOLÓGICOS
+
+> "Cada persona está sometida a múltiples rítmos biológicos que deben ser tenidos en cuenta en la programación de las actividades”
+
+_Un pequeño comentario: Es habitual trabajar como si tuviéramos la misma energía todo el día pero lo productivo sería tener en cuenta nuestra energía al afrontar las tareas._
+ 
+
+### 6. LEY DE FRAISSE O DE LA DIMENSIÓN SUBJETIVA DEL TIEMPO
+
+> “El tiempo tiene una dimensión objetiva y una subjetiva o psicológica, que es función del interés sentido por la actividad ejercida”.
+
+_*Un pequeño comentario: Esto da en la línea de flotación de la motivación. ¿Cómo hacer el trabajo más interesante? Como suele recordar José Miguel Bolívar citando a Daniel Pink, los tres elementos motivadores clave son autonomía, maestría y propósito. ¿hasta qué punto permiten las organizaciones actuales la existencia de estos tres elementos?_
+ 
+
+### 7. LEY DEL VALOR ECONÓMICO DEL TIEMPO
+
+> “Establecer el valor de cada hora de trabajo (coste de hora), determina la pérdida generada por el tiempo improductivo”
+
+_*Un pequeño comentario: Suele ser “divertido” hacer este ejercicio: primero calculas tu coste/ hora, luego sumas una aproximación de las horas perdidas en reuniones improductivas, interrupciones, pérdidas de tiempo por no estar haciendo lo más adecuado… al final obtienes una cifra en euros de lo que has tirado por la ventana. Puedes también pensar que realmente has tirado mucho más debido a que tus fallas de productividad han afectado a otras personas…_
