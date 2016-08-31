@@ -1,12 +1,17 @@
 ---
 layout: page
 title: Sobre mi
-subtitle: Aparte de ser informatico tengo otras pasiones en la vida
+subtitle: Informático y aventurero
 ---
 
-Mi nombre es David diaz castaño vengo de Colombia, aparte del deporte estas son mis mayores aficiones:
+Mi nombre es _David diaz Castaño_ mi lugar de nacimiento fue hace 28 años en [**Bogotá,Colombia**](https://es.wikipedia.org/wiki/Bogot%C3%A1) , llevo aproximadamente 20 años en [Madrid](https://es.wikipedia.org/wiki/Madrid) y aparte de la informática, practicar deporte al aire libre es una de mis mayores aficiones.
 
 ### Viajar
+
+
+
+
+
 
 Que mas puedes saber?
 
