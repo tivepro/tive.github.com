@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cronicas de un informatico
-subtitle: Como sobrevivir a un largo dia de trabajo
+title: Un dia cualquiera
+subtitle: 
 bigimg: /img/path.jpg
 ---
 
