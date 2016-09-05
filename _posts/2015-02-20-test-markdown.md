@@ -8,7 +8,7 @@ subtitle: Each post also has a subtitle
  
 How about a yummy crepe?
 
-![Crepe](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UF8uR6Z6KLc" frameborder="0" allowfullscreen></iframe>
 
 Here's a code chunk:
 
