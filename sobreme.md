@@ -24,7 +24,7 @@ Somos nuestro pasado, nuestras experiencias influyen mucho en la forma de ver el
 Que mas puedes saber?
 
 #### Mi experiencia profesional
-Continuamente actualizo  [**mi perfil de Linkedin**](https://www.linkedin.com/in/daviddiazcasta) con informacion relativa a todo lo que he hecho y a lo que me dedico actualmente.
+Continuamente actualizo  [**mi perfil de Linkedin**](https://www.linkedin.com/in/david-data-engineer) con informacion relativa a todo lo que he hecho y a lo que me dedico actualmente.
 
 #### Mis habilidades
 A parte de carrera profesional puedo destacar varias habilidades que aprendi a lo largo de varios cursos, la formación continua es una pieza fundamental en el desarrollo personal porque te permite estar activo y abre puertas a mejores oportunidades y por lo tanto mejores trabajos o colaboraciones.
